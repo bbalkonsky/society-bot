@@ -1,0 +1,19 @@
+{
+  "name": "society-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.16.3",
+    "telegraf-inline-menu": "^6.3.0"
+  }
+}
